@@ -8,5 +8,11 @@ Machine Learning Models: Implements Logistic Regression, Decision Trees, and Ran
 Model Evaluation: Provides metrics to evaluate the performance of each model.
 
 # Installation 
-git clone https://github.com/TaruunMalik/fake-news-predictor.git
-cd fake-news-predictor
+1. Clone the Repository
+  git clone https://github.com/TaruunMalik/Fake-News-Predictor
+  cd fake-news-predictor
+
+2. Install Libraries
+   pip install pandas numpy scikit-learn nltk
+# Results
+The project provides a comparative analysis of the performance of different models, allowing you to choose the best model for your use case.
